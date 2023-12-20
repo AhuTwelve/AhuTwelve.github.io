@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 About Me
 ======
 I am a Ph.D. student majoring in computer science at Anhui University, China. I am honored to be a member of the BIMK (Institute of Bio-inspired Intelligence and Mining Knowledge). My research focuses primarily on the areas of **intelligent education** and **optimization**. More relevant information can be found on our homepage. Intelligent education encompasses cutting-edge research areas such as cognitive diagnosis, knowledge tracing, and computer-adaptive test, involving various deep learning technologies. More information can be found in our research papers. **If you are interested in collaboration or discussion, please feel free to contact me via email or WeChat.** We look forward to our dialogue and mutual learning, creating new opportunities for collaboration, just as determined individuals can achieve remarkable things.
