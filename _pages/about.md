@@ -28,7 +28,9 @@ I am a Ph.D. student majoring in computer science at Anhui University, China. I 
 3. <em><strong><span style="color: blue; text-decoration: underline;">Evolutionary Multi-objective Optimization for 1️⃣ & 2️⃣</span></strong></em> 
 
 # 🏆 Honors and Awards
-
+- *2025.12* Natural Science Research Project of Anhui Educational Committee, Doctoral Research Project.
+- *2021 to 2025* First Class Award Scholarship of the Graduate.
+- *2019.4* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM).
 
 # 🧑‍🎨 Reviewers
 - *Journals:* TIST, TLT.
